@@ -378,3 +378,14 @@ div .button a:hover{
     margin: 5px;
     line-height: 2.15;
 }
+.link a {
+    text-decoration: none;
+    font-family: var(--lato);
+    display: block;
+    text-align: center;
+}
+.link a:hover{
+    color: var(--color3);
+    background-color: var(--color1);
+    padding: 10px;
+}
